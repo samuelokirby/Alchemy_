@@ -1,0 +1,46 @@
+//Items
+item.lesser_flux.name=Lesser Flux
+item.stable_flux.name=Stable Flux
+item.greater_flux.name=Greater Flux
+item.giga_flux.name=Giga Flux
+item.empty_rune.name=Empty Rune
+item.fire_rune.name=Fire Rune
+item.earth_rune.name=Earth Rune
+item.air_rune.name=Air Rune
+item.water_rune.name=Water Rune
+item.spellbound_ingot.name=Spellbound Ingot
+item.air_spell_tome.name=Air Spell Tome
+item.earth_spell_tome.name=Earth Spell Tome
+item.fire_spell_tome.name=Fire Spell Tome
+item.water_spell_tome.name=Water Spell Tome
+item.void_crystal.name=Void Crystal
+item.catalyst.name=Catalyst
+
+//Food & Crops
+item.mana_buns.name=Mana Buns
+tile.mana_essence_plant.name=Mana Essence Plant
+
+//Blocks
+tile.lesser_flux_ore.name=Lesser Flux Ore
+tile.spellbound_ore.name=Spellbound Ore
+tile.lava_touched_stone.name=Lava Touched Stone
+tile.water_touched_stone.name=Water Touched Stone
+tile.void_crystal_ore.name=Void Crystal Ore
+tile.mana_rich_ore.name=Mana Rich Ore
+
+
+//Tools
+item.spellbound_sword.name=Spellbound Sword
+item.spellbound_spade.name=Spellbound Shovel
+item.spellbound_pickaxe.name=Spellbound Pickaxe
+item.spellbound_axe.name=Spellbound Axe
+item.spellbound_hoe.name=Spellbound Hoe
+
+//Gauntlets
+item.gauntlet.name=Gauntlet
+
+//Armor
+item.spellslingers_helmet.name=Spellslinger's Helmet
+item.spellslingers_chestplate.name=Spellslinger's Chestplate
+item.spellslingers_leggings.name=Spellslinger's Leggings
+item.spellslingers_boots.name=Spellslinger's Boots

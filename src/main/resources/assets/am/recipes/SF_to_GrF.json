@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "FFF",
+        "FFF",
+        "FFF"
+    ],
+   
+    "key":
+    {
+        "F":
+        {
+            "item": "am:stable_flux"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:greater_flux",
+        "count": 1
+    }
+}

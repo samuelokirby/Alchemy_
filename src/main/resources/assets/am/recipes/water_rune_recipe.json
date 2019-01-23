@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "am:empty_rune"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:water_rune",
+        "count": 1
+    }
+}

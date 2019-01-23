@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "am:lava_touched_stone" }
+    }
+}

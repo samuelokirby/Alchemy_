@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "am:stable_flux"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:empty_rune",
+        "count": 1
+    }
+}

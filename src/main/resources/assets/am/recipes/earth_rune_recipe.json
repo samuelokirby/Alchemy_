@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "GRG",
+        "GGG"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "am:empty_rune"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gravel"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:earth_rune",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "am:stable_flux"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "am:lesser_flux",
+        "count": 9
+    }
+}

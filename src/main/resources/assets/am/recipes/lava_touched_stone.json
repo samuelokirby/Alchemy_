@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SLS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stonebrick",
+            "data": 0
+        },
+        
+        "L":
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:lava_touched_stone",
+        "count": 8
+    }
+}

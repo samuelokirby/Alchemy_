@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SWS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stonebrick",
+            "data": 0
+        },
+        
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:water_touched_stone",
+        "count": 8
+    }
+}

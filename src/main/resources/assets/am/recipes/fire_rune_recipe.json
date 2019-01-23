@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "am:empty_rune"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:fire_rune",
+        "count": 1
+    }
+}

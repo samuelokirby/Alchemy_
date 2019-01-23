@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "am:water_touched_stone" }
+    }
+}

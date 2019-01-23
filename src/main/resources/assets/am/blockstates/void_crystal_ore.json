@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "am:void_crystal_ore" }
+    }
+}

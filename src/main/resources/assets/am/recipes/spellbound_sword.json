@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " % ",
+        " % ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "%":
+        {
+            "item": "am:spellbound_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "am:spellbound_sword",
+        "count": 1
+    }
+}
